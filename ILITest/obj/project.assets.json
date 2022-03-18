@@ -5995,11 +5995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\ILITest\\ILITest.csproj",
+      "projectUniqueName": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\ILITest\\ILITest.csproj",
       "projectName": "ILITest",
-      "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\ILITest\\ILITest.csproj",
+      "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\ILITest\\ILITest.csproj",
       "packagesPath": "C:\\Users\\tyron\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\ILITest\\obj\\",
+      "outputPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\ILITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6021,8 +6021,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj": {
-              "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj"
+            "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj": {
+              "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj"
             }
           }
         }

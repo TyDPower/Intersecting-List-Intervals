@@ -4,7 +4,7 @@
     {
         public static List<int[]> GetIntersection(List<int[]> listA, List<int[]> listB)
         {
-            //Set index to keep track of place in list
+            //Set indexes to keep track of place in list
             int indexA = 0;
             int indexB = 0;
 

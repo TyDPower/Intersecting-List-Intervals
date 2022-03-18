@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaeovJNFi8eEUH6w4ytmPhBCMmF6t1bmct/skv8YP2EpGl4w1Dj8GRd/S8kxebdkOXt23PnXkMHL+hWPq4O0ZQ==",
+  "dgSpecHash": "2oy0xbX2VCFwqsglxDZTx15NrislJv7K4DSXZ1Qmbil4dAtwh4aDgcfl+aS3qnSR2f3zX7mjwEMhetMKg/eZPw==",
   "success": true,
-  "projectFilePath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj",
+  "projectFilePath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

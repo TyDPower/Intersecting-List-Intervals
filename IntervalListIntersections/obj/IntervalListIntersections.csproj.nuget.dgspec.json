@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj": {}
+    "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj": {}
   },
   "projects": {
-    "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj": {
+    "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj",
+        "projectUniqueName": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj",
         "projectName": "IntervalListIntersections",
-        "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\IntervalListIntersections.csproj",
+        "projectPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\IntervalListIntersections.csproj",
         "packagesPath": "C:\\Users\\tyron\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\IntervalListIntersections\\obj\\",
+        "outputPath": "D:\\Development\\C# Projects\\Learn C#\\Sandbox\\Interval Lists Intersections\\Intersecting-List-Intervals\\IntervalListIntersections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
