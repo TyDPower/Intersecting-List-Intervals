@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalListIntersections", "IntervalListIntersections.csproj", "{19A788DD-E16C-4607-9E60-BD4A3B81AA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILITest", "..\ILITest\ILITest.csproj", "{E3B11F3B-4CAF-425F-9D84-255E799F02B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A788DD-E16C-4607-9E60-BD4A3B81AA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A788DD-E16C-4607-9E60-BD4A3B81AA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A788DD-E16C-4607-9E60-BD4A3B81AA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A788DD-E16C-4607-9E60-BD4A3B81AA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B11F3B-4CAF-425F-9D84-255E799F02B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B11F3B-4CAF-425F-9D84-255E799F02B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B11F3B-4CAF-425F-9D84-255E799F02B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B11F3B-4CAF-425F-9D84-255E799F02B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D5219D-E9DF-4F64-B9D2-E5DD1F069288}
+	EndGlobalSection
+EndGlobal

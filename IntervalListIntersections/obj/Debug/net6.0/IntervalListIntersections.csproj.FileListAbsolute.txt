@@ -1,0 +1,15 @@
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\bin\Debug\net6.0\IntervalListIntersections.exe
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\bin\Debug\net6.0\IntervalListIntersections.deps.json
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\bin\Debug\net6.0\IntervalListIntersections.runtimeconfig.json
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\bin\Debug\net6.0\IntervalListIntersections.dll
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\bin\Debug\net6.0\IntervalListIntersections.pdb
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.csproj.AssemblyReference.cache
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.AssemblyInfoInputs.cache
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.AssemblyInfo.cs
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.csproj.CoreCompileInputs.cache
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.dll
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\refint\IntervalListIntersections.dll
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.pdb
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\IntervalListIntersections.genruntimeconfig.cache
+D:\Development\C# Projects\Learn C#\Sandbox\Interval Lists Intersections\IntervalListIntersections\obj\Debug\net6.0\ref\IntervalListIntersections.dll
